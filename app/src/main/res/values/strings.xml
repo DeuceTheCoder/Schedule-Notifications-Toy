@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sure Eventually</string>
+    <string name="title_activity_schedule_toast">ScheduleToast</string>
+</resources>
